@@ -1,2 +1,0 @@
-# Iris
-We have worked upon the iris dataset that contains the data that classifies various species of flower on the basis of sepal length, sepal width, petal length, petal width. We have run 10 classification models on this particular dataset with each giving a different accuracy then we have ensembled models that we run and made an attempt to improve the accuracy.  Software Used:-  Language:- Python 3.6.4  Python Libraries Used:- Pandas, Scikit-learn, Matplotlib, Csv Operating System:- Mac OS High Sierra, Windows 7
